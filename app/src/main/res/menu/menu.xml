@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/everythingNewsFragment"
+        android:title="everything"/>
+
+    <item
+        android:id="@+id/topHeadlinesFragment"
+        android:title="topHeadlines"/>
+
+    <item
+        android:id="@+id/sourcesNewsFragment"
+        android:title="sources"/>
+
+</menu>
